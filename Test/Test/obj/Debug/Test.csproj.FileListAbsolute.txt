@@ -1,0 +1,10 @@
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Bryan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bryan\Desktop\Test\Test\bin\Debug\Test.exe.config
